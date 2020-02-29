@@ -42,7 +42,7 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.9.0)
     public_suffix (3.0.3)
-    rake (12.3.1)
+    rake (13.0.1)
     safe_yaml (1.0.4)
     simplecov (0.16.1)
       docile (~> 1.1)
@@ -66,7 +66,7 @@ DEPENDENCIES
   minitest-line (~> 0.6, >= 0.6.4)
   minitest-proveit (~> 1.0, >= 1.0.0)
   pry (~> 0.11, >= 0.11.3)
-  rake (~> 12.3, >= 12.3.0)
+  rake (~> 13.0, >= 12.3.0)
   simplecov (~> 0.15, >= 0.15.1)
   steem-ruby!
   vcr (~> 4.0, >= 4.0.0)
